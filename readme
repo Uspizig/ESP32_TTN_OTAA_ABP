@@ -1,0 +1,3 @@
+This is a demo sketch for ESP32 and The Things network for a Over The Air Activation OTAA.
+Once OTAA was suncessful network data is stored to EEPROM and will not be needed on next startup.
+Please check all "//maybe modify " comments before uploading. You may change them for your needs
