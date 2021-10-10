@@ -1,3 +1,5 @@
 This is a demo sketch for ESP32 and The Things network for a Over The Air Activation OTAA.
 Once OTAA was suncessful network data is stored to EEPROM and will not be needed on next startup.
 Please check all "//maybe modify " comments before uploading. You may change them for your needs
+
+For use with Arduino ESP32 V2.0 have a look here... otherwise it won't compile: https://github.com/mcci-catena/arduino-lmic/issues/714
